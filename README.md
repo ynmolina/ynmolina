@@ -6,7 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ysmarle_Molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ysmarle-molina)
 
-
+## Contacto:
+[![Email](https://img.shields.io/badge/molinaysmarle@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
 
 <!--
 **ynmolina/ynmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
