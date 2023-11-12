@@ -1,6 +1,6 @@
 # Hi, my name is Ysmarle Molina👋
 
-#### Ingeniera Industrial, y recientemente por ser Científica de Datos Júnior; con más de cinco años de experiencia en mejora de procesos y cuatro años en análisis de datos. Con ganas de apoyar en la toma de decisiones informadas basadas en datos y resolución de problemas; con miras a mejorar la eficiencia, reducción de costos y aumento de ventas en la organización.
+#### Ingeniera Industrial, y recientemente por ser Científica de Datos Júnior egresada de la Escuela TripleTen; con más de cinco años de experiencia en mejora de procesos y cuatro años en análisis de datos. Con ganas de apoyar en la toma de decisiones informadas basadas en datos y resolución de problemas; con miras a mejorar la eficiencia, reducción de costos y aumento de ventas en la organización.
 
 ## Encuéntrame en:
 
