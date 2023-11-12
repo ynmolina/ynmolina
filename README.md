@@ -3,7 +3,8 @@
 #### Ingeniera Industrial, y recientemente por ser Científica de Datos Júnior; con más de cinco años de experiencia en mejora de procesos y cuatro años en análisis de datos. Con ganas de apoyar en la toma de decisiones informadas basadas en datos y resolución de problemas; con miras a mejorar la eficiencia, reducción de costos y aumento de ventas en la organización.
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ysmarle Molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ysmarle-molina/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ysmarle-molina)
 
 
 
