@@ -2,6 +2,17 @@
 
 #### Ingeniera Industrial, y recientemente por ser Científica de Datos Júnior egresada de la Escuela TripleTen; con más de cinco años de experiencia en mejora de procesos y cuatro años en análisis de datos. Con ganas de apoyar en la toma de decisiones informadas basadas en datos y resolución de problemas; con miras a mejorar la eficiencia, reducción de costos y aumento de ventas en la organización.
 
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ 
+</div>
+
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ysmarle_Molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ysmarle-molina)
