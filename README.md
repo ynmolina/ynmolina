@@ -4,7 +4,7 @@
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
-[![Python]]()
+[![Python]]
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
