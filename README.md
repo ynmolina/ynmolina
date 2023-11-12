@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
 
